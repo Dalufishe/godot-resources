@@ -6,7 +6,7 @@ Godot 是一款開源、免費的 2D / 3D 遊戲引擎。這裡記錄我在學�
 
 - [Godot 官網](https://godotengine.org/)
 - [Godot 官方文檔](https://docs.godotengine.org/en/stable/)
-- [Godot 官方原始碼庫]([https://godotengine.org/](https://github.com/godotengine/godot)https://github.com/godotengine/godot)
+- [Godot 官方原始碼庫](https://godotengine.org/](https://github.com/godotengine/godot)https://github.com/godotengine/godot)
 
 ### 入門學習資源
 

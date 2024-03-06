@@ -15,6 +15,6 @@ Godot 是一款開源、免費的 2D / 3D 遊戲引擎。這裡記錄我在學�
 
 ### Shaders
 
--[The book of Shaders](https://thebookofshaders.com/)
--[The book of Shaders 中文版](https://thebookofshaders.com/?lan=ch)
--[Godot 4 Shaders 製作水面效果](https://youtu.be/FZwcdmsIXCU?si=pgd98QhPpk-ciOqx)
+- [The book of Shaders](https://thebookofshaders.com/)
+- [The book of Shaders 中文版](https://thebookofshaders.com/?lan=ch)
+- [Godot 4 Shaders 製作水面效果](https://youtu.be/FZwcdmsIXCU?si=pgd98QhPpk-ciOqx)

@@ -16,6 +16,7 @@ Godot 是一款開源、免費的 2D / 3D 遊戲引擎。這裡記錄我在學�
 ### 遊戲開發雜談
 
 - [how to pick better indie game ideas](https://www.youtube.com/watch?v=_4tBL5uTosA)
+- [Technique for Creating Beautiful Level Design](https://www.youtube.com/watch?v=qNACGP98b6c&list=LL&index=1&ab_channel=PixelArchitect)
 
 ### 遊戲素材
 

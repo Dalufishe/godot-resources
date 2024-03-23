@@ -27,6 +27,10 @@ Godot 是一款開源、免費的 2D / 3D 遊戲引擎。這裡記錄我在學�
 
 - [JohnGabrielUK's 遊戲](https://johngabrieluk.itch.io/), [JohnGabrielUK's 遊戲原始碼](https://bitbucket.org/JohnGabrielUK/workspace/repositories/)
 
+### 地圖生成
+
+- [BSP 地圖生成演算法](https://jonoshields.com/post/bsp-dungeon)
+
 ### Shaders
 
 - [The book of Shaders](https://thebookofshaders.com/)

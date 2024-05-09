@@ -27,6 +27,10 @@ Godot 是一款開源、免費的 2D / 3D 遊戲引擎。這裡記錄我在學�
 
 - [JohnGabrielUK's 遊戲](https://johngabrieluk.itch.io/), [JohnGabrielUK's 遊戲原始碼](https://bitbucket.org/JohnGabrielUK/workspace/repositories/)
 
+### 2D 俯視動作類遊戲 (上帝視角) (TOP-DOWN ARPG)
+
+- [Heartbeast 的 ARPG 初學者課程](https://www.youtube.com/watch?v=mAbG8Oi-SvQ) - 涵蓋 TOP-DOWN ARPG 基本概念 (移動、攻擊、動畫、地圖、碰撞箱, 敵人 AI 等...)，課程是用 Godot 3.2 開發，Godot 4 有些部分稍有不同。
+
 ### 地圖生成
 
 - [BSP 地圖生成演算法](https://jonoshields.com/post/bsp-dungeon)

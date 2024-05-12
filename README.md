@@ -35,6 +35,10 @@ Godot 是一款開源、免費的 2D / 3D 遊戲引擎。這裡記錄我在學�
 
 - [BSP 地圖生成演算法](https://jonoshields.com/post/bsp-dungeon)
 
+### TileMap
+
+- [如何實現交互式 TileSet](https://www.youtube.com/watch?v=O4AQtCWNQmo&ab_channel=JohnIvess)
+
 ### Shaders
 
 - [The book of Shaders](https://thebookofshaders.com/)
